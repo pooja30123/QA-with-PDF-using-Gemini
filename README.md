@@ -82,14 +82,13 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 5. The result is shown on the UI.
 ```
----
 
 ## 🖥️ Run the App
 
 ```bash
 streamlit run StreamlitAPP.py
 ```
----
+
 ## 📌 Dependencies
 
 ```
@@ -98,20 +97,17 @@ streamlit
 python-dotenv
 google-generativeai
 ```
----
 
 ## 📸 Demo
 
 Here's how the app looks when running:
 ![App Screenshot](image.png)
 
----
 
 ## 📜 License
 
 This project is open source under the MIT License.
 
----
 
 ## 👩‍💻 Author
 
@@ -121,7 +117,6 @@ MSc AI/ML @ IIIT Lucknow
 Email: poojaverma300702@gmail.com
 GitHub: pooja30123
 ```
----
 
 ## ⭐ Give it a star!
 
