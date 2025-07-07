@@ -37,7 +37,6 @@ QA-with-PDF-using-Gemini/
 └── .gitignore
 
 ```
-
 ---
 
 ## 🛠️ Setup Instructions
@@ -68,7 +67,6 @@ pip install -r requirements.txt
 ```bash
 GOOGLE_API_KEY=your_gemini_api_key_here
 ```
-
 ---
 
 ## 🧠 How It Works
@@ -84,7 +82,6 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 5. The result is shown on the UI.
 ```
-
 ---
 
 ## 🖥️ Run the App
@@ -92,23 +89,20 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 ```bash
 streamlit run StreamlitAPP.py
 ```
-
+---
 ## 📌 Dependencies
 
 ```
-* llama-index
-
-* streamlit
-
-* python-dotenv
-
-* google-generativeai
+llama-index
+streamlit
+python-dotenv
+google-generativeai
 ```
-
 ---
 
 ## 📸 Demo
 
+Here's how the app looks when running:
 ![App Screenshot](image.png)
 
 ---
@@ -121,11 +115,12 @@ This project is open source under the MIT License.
 
 ## 👩‍💻 Author
 
+```
 Pooja Verma
 MSc AI/ML @ IIIT Lucknow
 Email: poojaverma300702@gmail.com
 GitHub: pooja30123
-
+```
 ---
 
 ## ⭐ Give it a star!
